@@ -14,7 +14,8 @@ I try to **add new implementations regularly** as part of my learning process.
 - Simple Linear Regression
 - Multiple Linear Regression
 - Polynomial Regression
-- Ridge Regression(currently in progress)
+- Ridge Regression
+- Lasso Regression
 
 
 ---
