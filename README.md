@@ -16,6 +16,7 @@ I try to **add new implementations regularly** as part of my learning process.
 - Polynomial Regression
 - Ridge Regression
 - Lasso Regression
+- ElasticNet Regression
 
 
 ---
