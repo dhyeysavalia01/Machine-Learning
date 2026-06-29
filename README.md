@@ -17,6 +17,10 @@ I try to **add new implementations regularly** as part of my learning process.
 - Ridge Regression
 - Lasso Regression
 - ElasticNet Regression
+- Logistic Regression
+- Perceptron trick
+- Classification Metrics
+- Softmax Regression
 
 
 ---
