@@ -22,6 +22,7 @@ I try to **add new implementations regularly** as part of my learning process.
 - Classification Metrics
 - Softmax Regression
 - Naive Bayes classifier
+- KNN classifier
 
 
 ---
