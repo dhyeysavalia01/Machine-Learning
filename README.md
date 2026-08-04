@@ -24,6 +24,7 @@ I try to **add new implementations regularly** as part of my learning process.
 - Naive Bayes classifier
 - KNN classifier
 - SVM classifier
+- Decision Tree Regression
 
 
 ---
