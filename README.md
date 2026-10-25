@@ -26,6 +26,7 @@ I try to **add new implementations regularly** as part of my learning process.
 - SVM classifier
 - Decision Tree Regresssor
 - Decision Tree Classifier
+- RandomForest Classifier
 
 
 ---
